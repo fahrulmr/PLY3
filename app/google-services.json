@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788219205782",
+    "firebase_url": "https://ply3-27c9b.firebaseio.com",
+    "project_id": "ply3-27c9b",
+    "storage_bucket": "ply3-27c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788219205782:android:c83e37a9a9eaf2ce",
+        "android_client_info": {
+          "package_name": "com.gearbox.play3.ply3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788219205782-k7a3lt887oooovbbi4n57hpr4d4bfjfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gearbox.play3.ply3",
+            "certificate_hash": "81D86D0883600F0A04DF13FC9ABA560ABE601728"
+          }
+        },
+        {
+          "client_id": "788219205782-n9n5docf75q489ghsnmtuc3u10ed74f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83ma36TrBYBfE_RC9Po0hI2dwjpPJDOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788219205782-n9n5docf75q489ghsnmtuc3u10ed74f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
